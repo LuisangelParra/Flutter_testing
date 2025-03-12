@@ -6,6 +6,3 @@ Run test with:
 
 flutter test      
 flutter test integration_test/authentication_test.dart
-
-Solution:
-https://github.com/augustosalazar/f_testing
